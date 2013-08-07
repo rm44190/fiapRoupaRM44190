@@ -5,5 +5,9 @@
             <dependent-object>Module_1375553870864</dependent-object>
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="rm44190ecom.war" deploy-path="/" handle="module:/resource/rm44190ecom/rm44190ecom">
+            <dependent-object>Module_1375831569335</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
     </wb-module>
 </project-modules>
